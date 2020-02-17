@@ -1,0 +1,8 @@
+.cont{
+    position:fixed;
+    background:aquamarine;
+    top: 0;
+    width: 100%;
+    text-align: center;
+    font-family: sans-serif;
+}
